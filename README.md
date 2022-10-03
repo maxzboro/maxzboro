@@ -1,5 +1,8 @@
-### Hi, I’m @maxzboro
+## 👋 Hi, I’m MaxZboro!
 
-I am a Python software developer.
+**I like game&software development.**  
 
-I cuurently learn Java, C++.
+
+*🐍 Coding in Python since 2019*  
+*☕ Learning Java since 2021*  
+*🐦 Learning Swift since 2022*
