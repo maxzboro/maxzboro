@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m MaxZboro!
-aka WhiskeredSun
+aka WhiskeredSun  
 **I like game&software development.**  
 
 
