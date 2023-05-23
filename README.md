@@ -1,9 +1,6 @@
-## 👋 Hi, I’m MaxZboro!
-aka WhiskeredSun  
-**I like game&software development.**  
+ho
+## I am MaxZboro (or WhiskeredSun)!
+Amateur self-taught programmer. I code in Python since 2018 and I am learning C++/Arduino C++,   
+Preferred directions: game development, Arduino robot-making, Minecraft plugins.  
 
-
-*Coding in Python since 2019*  
-*Learning C++ since 2022*
-
-I HATE SEMICOLONS
+how do I even make java discord api work with minecraft plugins?
