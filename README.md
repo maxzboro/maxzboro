@@ -1,1 +1,1 @@
-who knows what the f this function do
+who the f knows whatthis function do
